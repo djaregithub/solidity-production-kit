@@ -14,8 +14,17 @@ Stop writing contracts from scratch. These templates are tested, documented, and
 - Complete Foundry test suite (12+ tests)
 - Deployment script
 
-**More coming soon:**
-- NFT Collection (ERC721) with reveal + royalties
+## Available Templates
+
+### ✅ ERC20 Token 🪙
+Standard ERC20 + Permit + Pausable. Tested for mint, burn, pause, ownership, and gasless approvals.
+**Price: $50**
+
+### ✅ NFT Collection 🎨
+Full ERC721 with URI storage, public mint, whitelist mint, reveal mechanism, max supply, per-wallet cap, and withdraw.
+**Price: $75**
+
+**More coming:**
 - Staking contract with reward distribution
 - Token presale / launchpad
 - Multi-sig wallet
