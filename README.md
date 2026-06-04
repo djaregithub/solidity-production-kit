@@ -28,9 +28,13 @@ Full ERC721 with URI storage, public mint, whitelist mint, reveal mechanism, max
 Single-sided staking with reward distribution, emergency unstake, min staking duration, and variable APR.
 **Price: $100**
 
-**More coming:**
-- Token presale / launchpad
-- Multi-sig wallet
+### ✅ Launchpad / Presale 🚀
+Multi-stage token presale with vesting, refund mechanism, soft/hard cap, whitelist, and USDC/ETH support.
+**Price: $150**
+
+- - -
+
+**Full Kit — all 4 templates: $450 (save $75)**
 
 ### Security
 
