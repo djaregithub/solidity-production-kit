@@ -24,8 +24,11 @@ Standard ERC20 + Permit + Pausable. Tested for mint, burn, pause, ownership, and
 Full ERC721 with URI storage, public mint, whitelist mint, reveal mechanism, max supply, per-wallet cap, and withdraw.
 **Price: $75**
 
+### ✅ Staking Contract 🏦
+Single-sided staking with reward distribution, emergency unstake, min staking duration, and variable APR.
+**Price: $100**
+
 **More coming:**
-- Staking contract with reward distribution
 - Token presale / launchpad
 - Multi-sig wallet
 
